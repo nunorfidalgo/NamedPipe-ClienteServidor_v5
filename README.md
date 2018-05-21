@@ -1,0 +1,1 @@
+# Exemplo Named Pipes Cliente Servidor v5
